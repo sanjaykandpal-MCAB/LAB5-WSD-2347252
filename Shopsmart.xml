@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="ShopSmart.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<products>
+    <product>
+        <id>1</id>
+        <name>Asus</name>
+        <price>90</price>
+        <description>ASUS is a renowned multinational technology company known for producing a wide range of high-quality computer hardware </description>
+    </product>
+    <product>
+        <id>2</id>
+        <name>PlayStation5</name>
+        <price>500</price>
+        <description>The PlayStation 5 (PS5) is a cutting-edge gaming console offering powerful hardware</description>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Xbox</name>
+        <price>400</price>
+        <description>The Xbox is a popular gaming console series developed by Microsoft</description>
+    </product>
+    <product>
+        <id>4</id>
+        <name>Nintendo Switch</name>
+        <price>800</price>
+        <description>The Nintendo Switch is a versatile gaming console that seamlessly transitions </description>
+    </product>
+    <product>
+        <id>5</id>
+        <name>Lenovo L340</name>
+        <price>700</price>
+        <description>A gaming laptop that built for gamers</description>
+    </product>
+</products>
